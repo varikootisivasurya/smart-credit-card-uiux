@@ -26,6 +26,10 @@ transparent rewards estimation, and easy comparison in a clean, modern UI.
 Introduces the platform, builds trust, and guides users to start the journey.
 
 ![Landing](screens/landing.png)
+<img width="375" height="812" alt="splash - loading" src="https://github.com/user-attachments/assets/4aec3df9-d14d-4092-a12e-710be0f776ee" />
+<img width="375" height="812" alt="splash - loading-1" src="https://github.com/user-attachments/assets/a0e35509-3b67-4597-aa11-bc7ef681959d" />
+
+
 
 ---
 
